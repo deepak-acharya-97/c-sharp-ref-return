@@ -1,0 +1,11 @@
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\bin\Debug\netcoreapp2.1\play_with_ref_return.deps.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\bin\Debug\netcoreapp2.1\play_with_ref_return.runtimeconfig.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\bin\Debug\netcoreapp2.1\play_with_ref_return.runtimeconfig.dev.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\bin\Debug\netcoreapp2.1\play_with_ref_return.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\bin\Debug\netcoreapp2.1\play_with_ref_return.pdb
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\obj\Debug\netcoreapp2.1\play_with_ref_return.csprojAssemblyReference.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\obj\Debug\netcoreapp2.1\play_with_ref_return.csproj.CoreCompileInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\obj\Debug\netcoreapp2.1\play_with_ref_return.AssemblyInfoInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\obj\Debug\netcoreapp2.1\play_with_ref_return.AssemblyInfo.cs
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\obj\Debug\netcoreapp2.1\play_with_ref_return.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_ref_return\obj\Debug\netcoreapp2.1\play_with_ref_return.pdb
