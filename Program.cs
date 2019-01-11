@@ -13,7 +13,7 @@ namespace play_with_ref_return
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var x=SomeThing(); // no ref keyword so return by value
+            ref var x=ref SomeThing(); // ref keyword so return by reference
             P("     **********      ");
             P("     Before      ");
             foreach (var item in Numbers)
@@ -40,10 +40,11 @@ namespace play_with_ref_return
             // 4
             //     **********
             //     After
-            // 1
+            // 999
             // 2
             // 3
             // 4
+
 
         }
     }
